@@ -1,0 +1,18 @@
+.Navigation {
+    background-color: white;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .navbar-nav {
+     margin-right: 1rem; 
+  }
+
+  .navbar-brand{
+     margin-left: 1rem; 
+  }
+  .nav-link.active {
+    font-weight: bold;
+    color: black;
+  }
