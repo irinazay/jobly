@@ -2,7 +2,7 @@
 
 <h2 align="center">This is a mock job search app.</h2>
 
-<p align="center">Check out the  <a href="#" target="_blank">website</a></p>
+<p align="center">Check out the  <a href="https://outrageous-back.surge.sh" target="_blank">website</a></p>
 
 <h2>👤 User flow</h2>
 
